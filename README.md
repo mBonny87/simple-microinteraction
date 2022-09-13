@@ -46,7 +46,7 @@ Now it's time to code this animation! Of course this is a simple example, but th
   <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js"></script>
 ```
 
-4. Finally, create a file named script.js where we will use animejs and the onClick action of the interaction.
+4.Finally, create a file named script.js where we will use animejs and the onClick action of the interaction.
 ```js
   function handlePath() {
   //get the svg dom element
@@ -79,6 +79,6 @@ Now it's time to code this animation! Of course this is a simple example, but th
 Keep attention to the d property. Based on state, we are going to set the new path(d) to our target. Remember to put the semicolons between points or the animation will not work!!!. 
 
 ## Step 3
-Enjoy creating new micro interactions!
+Enjoy creating new micro interactions! 
 
 ![Alt text](/interaction.gif "Let's goooo")
