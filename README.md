@@ -7,6 +7,7 @@ For more information, please refer the direct link: https://animejs.com/
 Open Figma or Adobe XD (the design tool you prefer), you just need to create these two paths:
 
 ![](/hamburgerOff.svg "Closed")
+
 ![](/hamburgerOn.svg "Opened")
 
 Then you just need to export these paths as svg formats. As you can see I called them hamburgerOn/Off which rappresent our states of the animation.
